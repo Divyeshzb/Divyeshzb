@@ -53,3 +53,4 @@ I architect scalable cloud-native platforms, lead cross-functional teams, and tu
 [![LinkedIn](https://img.shields.io/badge/-Divyesh_Maheshwari-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/divyeshm7)
 [![Email](https://img.shields.io/badge/-divyeshm7@gmail.com-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:divyeshm7@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Divyeshzb-181717?style=flat&logo=github&logoColor=fff)](https://github.com/Divyeshzb)
+
